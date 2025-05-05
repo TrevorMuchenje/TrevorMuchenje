@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrevorMuchenje
-- 👀 I’m interested in AI and full stack development
+- 👀 I’m interested in full stack AI development
 - 🌱 I’m currently learning MCP and A2A protocols
 - 💞️ I’m looking to collaborate on all things web development and AI powered applications
 - 📫 You can reach me at trevorrmuchenje@gmail.com
